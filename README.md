@@ -1,2 +1,4 @@
-# -vuejs-practica2
-module 6 practica 2 VUEJS
+# Vuejs-Practica 2
+Autores:
+Jose luis Yacelly Ramos
+Maylee Perez Pastor
