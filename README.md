@@ -1,4 +1,6 @@
 # Vuejs-Practica 2
-Autores:
+# Autores:
+
 Jose luis Yacelly Ramos
+
 Maylee Perez Pastor
